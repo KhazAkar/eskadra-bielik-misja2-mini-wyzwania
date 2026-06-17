@@ -1,0 +1,23 @@
+# Wyzwanie 4: Nowy endpoint /ask_summary
+# Zależności dla nowego endpointu podsumowań
+
+# FastAPI - framework webowy
+fastapi==0.111.0
+uvicorn==0.29.0
+
+# HTTP client
+requests==2.31.0
+
+# Obsługa uploadu plików
+python-multipart==0.0.9
+
+# Typowanie
+pydantic==2.7.1
+
+# Dla BigQuery (jeśli używasz)
+# google-cloud-bigquery==3.21.0
+# google-auth==2.29.0
+
+# Dla FAISS + SQLite (jeśli używasz)
+# faiss-cpu==1.8.0
+# numpy==1.26.4
