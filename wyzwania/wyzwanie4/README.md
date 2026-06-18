@@ -520,11 +520,14 @@ payload = {
 
 ## 📚 Dokumentacja do przestudiowania
 
-1. [FastAPI Path Parameters](https://fastapi.tiangolo.com/tutorial/path-params/)
-2. [FastAPI Query Parameters](https://fastapi.tiangolo.com/tutorial/query-params/)
-3. [Ollama API - max_tokens](https://github.com/ollama/ollama/blob/main/docs/api.md#generate-a-response)
-4. [JavaScript async/await](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/await)
-5. [JavaScript Promise.allSettled](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise/allSettled)
+1. [FastAPI Path Parameters](https://fastapi.tiangolo.com/tutorial/path-params/) - Dokumentacja parametrów ścieżki w FastAPI
+2. [FastAPI Query Parameters](https://fastapi.tiangolo.com/tutorial/query-params/) - Dokumentacja parametrów zapytania w FastAPI
+3. [Ollama API - max_tokens](https://github.com/ollama/ollama/blob/main/docs/api.md#generate-a-response) - Dokumentacja API Ollama z parametrem max_tokens
+4. [JavaScript async/await](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/await) - Dokumentacja async/await w JavaScript
+5. [JavaScript Promise.allSettled](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise/allSettled) - Dokumentacja Promise.allSettled
+6. [FastAPI Documentation](https://fastapi.tiangolo.com/) - Pełna dokumentacja FastAPI
+7. [Fetch API](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API) - Dokumentacja API Fetch w JavaScript
+8. [Pydantic Documentation](https://docs.pydantic.dev/latest/) - Dokumentacja Pydantic v2
 
 ---
 

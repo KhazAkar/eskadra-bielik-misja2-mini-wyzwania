@@ -434,11 +434,13 @@ FROM VECTOR_SEARCH(
 
 ## 📚 Dokumentacja do przestudiowania
 
-1. [Pydantic Documentation](https://docs.pydantic.dev/latest/)
-2. [Python time module](https://docs.python.org/3/library/time.html)
-3. [BigQuery Vector Search](https://cloud.google.com/bigquery/docs/vector-search)
-4. [FAISS Index Parameters](https://github.com/facebookresearch/faiss/wiki/Faiss-for-the-impatient#index-parameters)
-5. [Cosine Similarity](https://en.wikipedia.org/wiki/Cosine_similarity)
+1. [Pydantic Documentation](https://docs.pydantic.dev/latest/) - Oficjalna dokumentacja Pydantic v2
+2. [Python time module](https://docs.python.org/3/library/time.html) - Dokumentacja modułu time (time(), perf_counter())
+3. [BigQuery Vector Search](https://cloud.google.com/bigquery/docs/vector-search) - Oficjalna dokumentacja Vector Search w BigQuery
+4. [FAISS Index Parameters](https://github.com/facebookresearch/faiss/wiki/Faiss-for-the-impatient#index-parameters) - Przewodnik po parametrach indeksów FAISS
+5. [Cosine Similarity](https://en.wikipedia.org/wiki/Cosine_similarity) - Wyjaśnienie cosine similarity na Wikipedii
+6. [FastAPI Documentation](https://fastapi.tiangolo.com/) - Dokumentacja frameworka FastAPI
+7. [Requests Documentation](https://docs.python-requests.org/) - Dokumentacja biblioteki requests
 
 ---
 

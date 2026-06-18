@@ -59,6 +59,32 @@ wyzwania/
 3. **Korzystaj z debugowania** - Użyj `print()` lub debugera, aby śledzić przepływ danych
 4. **Zachowaj kompatybilność** - Staraj się, aby zmiany były kompatybilne z istniejącym API
 
+## 📚 Dokumentacja bibliotek
+
+Poniżej znajdziesz linki do oficjalnej dokumentacji wszystkich używanych bibliotek:
+
+### Backend (Python)
+- [FastAPI](https://fastapi.tiangolo.com/) - Framework webowy
+- [Uvicorn](https://www.uvicorn.org/) - Serwer ASGI
+- [Requests](https://docs.python-requests.org/) - Obsługa HTTP
+- [Pydantic](https://docs.pydantic.dev/latest/) - Walidacja danych
+- [FAISS](https://github.com/facebookresearch/faiss/wiki/Faiss-for-the-impatient) - Wektorowa baza danych
+- [NumPy](https://numpy.org/doc/stable/) - Obsługa macierzy (wymagane przez FAISS)
+- [SQLite](https://docs.python.org/3/library/sqlite3.html) - Baza danych (wbudowana w Pythonie)
+- [PyPDF2](https://pypdf2.readthedocs.io/en/latest/) - Ekstrakcja tekstu z PDF
+- [pdfplumber](https://github.com/jsvine/pdfplumber) - Zaawansowana ekstrakcja PDF
+- [Ollama](https://github.com/ollama/ollama/blob/main/docs/api.md) - Uruchamianie modeli LLM lokalnie
+
+### Frontend (HTML/CSS/JavaScript)
+- [HTML Living Standard](https://html.spec.whatwg.org/) - Specyfikacja HTML
+- [CSS MDN](https://developer.mozilla.org/en-US/docs/Web/CSS) - Dokumentacja CSS
+- [JavaScript MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript) - Dokumentacja JavaScript
+- [Fetch API](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API) - Obsługa żądań HTTP
+
+### Chmura (Google Cloud)
+- [BigQuery](https://cloud.google.com/bigquery/docs) - Hurtownia danych
+- [BigQuery Vector Search](https://cloud.google.com/bigquery/docs/vector-search) - Wektorowe wyszukiwanie
+
 ## Autor
 
 Wyzwania przygotowane na podstawie projektu: [eskadra-bielik-misja2](https://github.com/avedave/eskadra-bielik-misja2)

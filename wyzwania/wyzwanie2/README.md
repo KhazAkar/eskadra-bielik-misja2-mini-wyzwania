@@ -357,11 +357,14 @@ Dodaj na końcu body:
 
 ## 📚 Dokumentacja do przestudiowania
 
-1. [HTML Living Standard](https://html.spec.whatwg.org/)
-2. [CSS MDN Documentation](https://developer.mozilla.org/en-US/docs/Web/CSS)
-3. [CSS Colors](https://developer.mozilla.org/en-US/docs/Web/CSS/color)
-4. [Emoji List](https://emojipedia.org/)
-5. [Font Awesome Icons](https://fontawesome.com/icons) (opcjonalne)
+1. [HTML Living Standard](https://html.spec.whatwg.org/) - Oficjalna specyfikacja HTML
+2. [CSS MDN Documentation](https://developer.mozilla.org/en-US/docs/Web/CSS) - Kompleksowy przewodnik po CSS od Mozilla
+3. [CSS Colors](https://developer.mozilla.org/en-US/docs/Web/CSS/color) - Dokumentacja kolorów w CSS
+4. [CSS Color Picker](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Colors/Color_picker_tool) - Narzędzie do testowania palet kolorów
+5. [Emoji List](https://emojipedia.org/) - Baza emoji z opisami i kodami
+6. [Font Awesome Icons](https://fontawesome.com/icons) - Biblioteka ikon (opcjonalne)
+7. [JavaScript MDN Documentation](https://developer.mozilla.org/en-US/docs/Web/JavaScript) - Dokumentacja JavaScript
+8. [Coolors](https://coolors.co/) - Generator palet kolorów (opcjonalne)
 
 ---
 

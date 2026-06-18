@@ -553,11 +553,14 @@ def chunk_text(text: str, chunk_size: int = 500) -> list[str]:
 
 ## 📚 Dokumentacja do przestudiowania
 
-1. [PyPDF2 Documentation](https://pypdf2.readthedocs.io/)
-2. [pdfplumber Documentation](https://github.com/jsvine/pdfplumber)
-3. [Text Chunking Strategies](https://www.pinecone.io/learn/chunking-strategies/)
-4. [FastAPI File Upload](https://fastapi.tiangolo.com/tutorial/request-files/)
-5. [FastAPI Background Tasks](https://fastapi.tiangolo.com/tutorial/background-tasks/)
+1. [PyPDF2 Documentation](https://pypdf2.readthedocs.io/en/latest/) - Oficjalna dokumentacja PyPDF2 do ekstrakcji tekstu z PDF
+2. [pdfplumber Documentation](https://github.com/jsvine/pdfplumber) - Dokumentacja pdfplumber (lepsza obsługa layoutu)
+3. [Text Chunking Strategies](https://www.pinecone.io/learn/chunking-strategies/) - Przewodnik po strategiach chunkingu tekstu (Pinecone)
+4. [FastAPI File Upload](https://fastapi.tiangolo.com/tutorial/request-files/) - Dokumentacja uploadu plików w FastAPI
+5. [FastAPI Background Tasks](https://fastapi.tiangolo.com/tutorial/background-tasks/) - Dokumentacja zadań w tle w FastAPI
+6. [Python-docx Documentation](https://python-docx.readthedocs.io/) - Dokumentacja do obsługi plików DOCX (opcjonalne)
+7. [Pytesseract Documentation](https://github.com/madmaze/pytesseract) - Dokumentacja OCR pytesseract (opcjonalne)
+8. [Camelot Documentation](https://camelot-py.readthedocs.io/) - Dokumentacja do ekstrakcji tabel z PDF (opcjonalne)
 
 ---
 

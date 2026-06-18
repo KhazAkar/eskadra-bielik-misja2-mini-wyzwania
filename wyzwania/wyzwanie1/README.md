@@ -41,7 +41,7 @@ Twoim zadaniem jest **usunięcie zależności od Google BigQuery** i zastąpieni
 ```
 
 **Na co zwrócić uwagę:**
-- Sprawdź czy masz wystarczająco miejsca na dysku (modele zajmują ~10-20GB)
+- Sprawdź czy masz wystarczająco miejsca na dysku (modele zajmują ~6-8GB: EmbeddingGemma ~1.5-2GB, Bielik ~4-5GB)
 - Upewnij się, że masz wystarczająco RAM (minimum 16GB rekomendowane)
 
 ---
@@ -377,10 +377,13 @@ faiss.normalize_L2(embeddings_array)
 
 ## 📚 Dokumentacja do przestudiowania
 
-1. [FAISS Python API](https://github.com/facebookresearch/faiss/wiki/Faiss-for-the-impatient)
-2. [Ollama API Documentation](https://github.com/ollama/ollama/blob/main/docs/api.md)
-3. [SQLite Python Tutorial](https://docs.python.org/3/library/sqlite3.html)
-4. [FastAPI Documentation](https://fastapi.tiangolo.com/)
+1. [FAISS Python API](https://github.com/facebookresearch/faiss/wiki/Faiss-for-the-impatient) - Oficjalna dokumentacja FAISS z przykładami w Pythonie
+2. [Ollama API Documentation](https://github.com/ollama/ollama/blob/main/docs/api.md) - Pełna dokumentacja API Ollama (embed, chat, generate)
+3. [SQLite Python Tutorial](https://docs.python.org/3/library/sqlite3.html) - Oficjalna dokumentacja modułu sqlite3 w Pythonie
+4. [FastAPI Documentation](https://fastapi.tiangolo.com/) - Oficjalna dokumentacja frameworka FastAPI
+5. [NumPy Documentation](https://numpy.org/doc/stable/) - Dokumentacja biblioteki NumPy (wymagana przez FAISS)
+6. [Uvicorn Documentation](https://www.uvicorn.org/) - Dokumentacja serwera ASGI Uvicorn
+7. [Requests Documentation](https://docs.python-requests.org/) - Dokumentacja biblioteki requests do obsługi HTTP
 
 ---
 
