@@ -1,0 +1,27 @@
+# Wyzwanie 1: Lokalne uruchomienie z SQLite + FAISS
+# Zależności dla lokalnego RAG z Ollama, SQLite i FAISS
+
+# FastAPI - framework webowy
+fastapi==0.111.0
+uvicorn==0.29.0
+
+# HTTP client
+requests==2.31.0
+
+# Obsługa uploadu plików
+python-multipart==0.0.9
+
+# Wektorowa baza danych
+faiss-cpu==1.8.0  # Użyj faiss-gpu jeśli masz CUDA
+
+# Baza danych SQLite (wbudowana w Pythonie, nie wymaga instalacji)
+# sqlite3 jest częścią standardowej biblioteki Python
+
+# Obsługa CSV
+# csv jest częścią standardowej biblioteki Python
+
+# Typowanie (opcjonalne, ale rekomendowane)
+pydantic==2.7.1
+
+# NumPy - wymagane przez FAISS
+numpy==1.26.4
