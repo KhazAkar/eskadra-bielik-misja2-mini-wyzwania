@@ -68,7 +68,7 @@ Poniżej znajdziesz linki do oficjalnej dokumentacji wszystkich używanych bibli
 - [Uvicorn](https://www.uvicorn.org/) - Serwer ASGI
 - [Requests](https://docs.python-requests.org/) - Obsługa HTTP
 - [Pydantic](https://docs.pydantic.dev/latest/) - Walidacja danych
-- [FAISS](https://github.com/facebookresearch/faiss/wiki/Faiss-for-the-impatient) - Wektorowa baza danych
+- [FAISS](https://github.com/facebookresearch/faiss/wiki/Getting-started) - Wektorowa baza danych
 - [NumPy](https://numpy.org/doc/stable/) - Obsługa macierzy (wymagane przez FAISS)
 - [SQLite](https://docs.python.org/3/library/sqlite3.html) - Baza danych (wbudowana w Pythonie)
 - [PyPDF2](https://pypdf2.readthedocs.io/en/latest/) - Ekstrakcja tekstu z PDF
